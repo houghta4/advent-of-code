@@ -1,4 +1,4 @@
-INPUT = '1/1/input.txt'
+INPUT = '2023/1/1/input.txt'
 def main():
     ans = 0
     with open(INPUT) as calibrations:

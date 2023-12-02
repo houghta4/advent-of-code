@@ -1,4 +1,4 @@
-INPUT = '1/2/input.txt'
+INPUT = '2023/1/2/input.txt'
 
 digits = {
     'one': '1',
